@@ -1,51 +1,46 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# E-book: Desvendando os Segredos da Lógica de Programação ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Fundamentos básicos sobre Lógica de programação e estrutura de código.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chatgpt e Gemini.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pesquisas realizadas em IA.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+## Introdução
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A lógica de programação é a base fundamental para qualquer programador. É a chave para estruturar seus pensamentos, resolver problemas de forma eficaz e criar softwares incríveis. Este e-book te guiará por uma jornada empolgante pelos conceitos básicos da lógica de programação, desmistificando seus segredos e te preparando para se tornar um mestre da codificação.
 
-### Exemplos e Insigths
+## Capítulo 1: O que é Lógica de Programação?
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+A lógica de programação é a arte de descompor problemas em etapas menores e bem definidas, utilizando uma linguagem que o computador entende. É como se você estivesse ensinando o computador a pensar passo a passo para chegar à solução desejada.
 
-## Links Interessantes
+## Capítulo 2: Conceitos Essenciais
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Algoritmos: São a receita mágica da lógica de programação. Um algoritmo é uma sequência de instruções detalhadas que o computador segue para resolver um problema específico.
+Variáveis: São como caixas de armazenamento para guardar informações que o computador precisa usar durante a execução do programa. Cada variável possui um nome e um tipo de dado (número, texto, etc.).
+Estruturas de Controle: São os "se" e "quando" da programação. Elas permitem que o computador tome decisões e execute diferentes ações de acordo com as condições do programa. Exemplos: if-else, loops (for, while).
+Operadores: São os símbolos que realizam operações matemáticas, lógicas ou de comparação entre dados. Exemplos: +, -, *, /, ==, !=, <, >.
+Capítulo 3: Desvendando Algoritmos
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Aprender a criar algoritmos é como se tornar um detetive da lógica. Você precisa analisar o problema, identificar as etapas necessárias para solucioná-lo e descrevê-las de forma clara e concisa.
+
+- Capítulo 4: Colocando a Mão na Massa
+
+A prática leva à perfeição! Existem diversas plataformas online que oferecem exercícios e desafios de lógica de programação. Pratique bastante e aprimore suas habilidades de raciocínio lógico.
+
+- Capítulo 5: Explorando o Mundo da Programação
+
+Com a base sólida em lógica de programação, você está pronto para desbravar o universo das linguagens de programação. Explore linguagens como Python, Java, C++ e JavaScript e descubra qual se encaixa melhor em seus objetivos.
+
+## Conclusão
+
+Lembre-se: a jornada na programação é contínua. Continue aprendendo, praticando e se desafiando. Com dedicação e paixão, você se tornará um programador excepcional, capaz de criar softwares que impactam o mundo.
+
